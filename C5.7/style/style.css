@@ -1,0 +1,28 @@
+.result {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 10px 0px;
+}
+
+.card {
+  text-align: center;
+  margin: 10px;
+}
+
+.card-image {
+  width: 450px;
+  height: 300px;
+}
+
+.input1 {
+  width: 100px;
+}
+
+.input2 {
+  width: 100px;
+}
+
+.btn {
+  margin: 5px 10px;
+}
